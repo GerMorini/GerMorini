@@ -1,4 +1,11 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/GermanMorini/GermanMorini/main/img/banner.jpg" />
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GerMorini&theme=dark&show_icons=true&hide_border=true&count_private=true" height="200em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerMorini&theme=dark&show_icons=true&hide_border=true&layout=compact" height="200em" />
+</div>
 
 <!--
 **GerMorini/GerMorini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
