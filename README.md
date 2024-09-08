@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GermanMorini/GermanMorini/main/img/banner.jpg" />
+  <img src="https://raw.githubusercontent.com/GermanMorini/GermanMorini/main/src/matrix.gif" width="100%"/>
 </div>
 
 ---
