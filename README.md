@@ -9,6 +9,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerMorini&theme=dark&show_icons=true&hide_border=true&layout=compact" height="169em" />
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-Follow-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</div>
+
 <!--
 **GerMorini/GerMorini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
