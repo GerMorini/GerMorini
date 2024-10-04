@@ -12,7 +12,9 @@
 <br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GermanMorini.GermanMorini" height="28px" />
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=GermanMorini.GermanMorini" height="28px" />
+  </a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-Follow-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
